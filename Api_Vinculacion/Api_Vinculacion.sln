@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api_Vinculacion", "Api_Vinculacion\Api_Vinculacion.csproj", "{548743A0-5DBB-4CE2-9297-A8AA735E6ADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{548743A0-5DBB-4CE2-9297-A8AA735E6ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548743A0-5DBB-4CE2-9297-A8AA735E6ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548743A0-5DBB-4CE2-9297-A8AA735E6ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548743A0-5DBB-4CE2-9297-A8AA735E6ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1104081-14F8-453C-A724-799807AE4883}
+	EndGlobalSection
+EndGlobal
