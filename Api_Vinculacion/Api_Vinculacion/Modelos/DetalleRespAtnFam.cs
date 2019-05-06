@@ -7,7 +7,7 @@ namespace Api_Vinculacion.Modelos
 {
     public class DetalleRespAtnFam
     {
-        public int IdDRAF { get; set; }
+        public int DetalleRespAtnFamId { get; set; }
         public string Descripcion { get; set; }
         //foreing key
         public int NumFichaId { get; set; }

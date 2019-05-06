@@ -7,7 +7,7 @@ namespace Api_Vinculacion.Modelos
 {
     public class Ficha
     {
-        public int NumFichaId { get; set; }
+        public int FichaId { get; set; }
         public string Provincia { get; set; }
         public string Canton { get; set; }
         public string Parroquia { get; set; }

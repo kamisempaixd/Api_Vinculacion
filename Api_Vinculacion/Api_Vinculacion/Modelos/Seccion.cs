@@ -7,7 +7,7 @@ namespace Api_Vinculacion.Modelos
 {
     public class Seccion
     {
-        public int IdSeccion { get; set; }
+        public int SeccionId { get; set; }
         public string NSeccion { get; set; }
     }
 }

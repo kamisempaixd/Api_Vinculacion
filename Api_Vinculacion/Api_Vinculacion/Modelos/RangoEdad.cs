@@ -7,7 +7,7 @@ namespace Api_Vinculacion.Modelos
 {
     public class RangoEdad
     {
-        public int IdRango { get; set; }
+        public int RangoId { get; set; }
         public string Rango { get; set; }
     }
 }

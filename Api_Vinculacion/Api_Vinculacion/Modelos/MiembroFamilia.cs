@@ -7,7 +7,7 @@ namespace Api_Vinculacion.Modelos
 {
     public class MiembroFamilia
     {
-        public int IdMiembroFam { get; set; }
+        public int MiembroFamiliaId { get; set; }
         public int Edad { get; set; }
         public string Sexo { get; set; }
         public string Embarazo { get; set; }

@@ -7,7 +7,7 @@ namespace Api_Vinculacion.Modelos
 {
     public class Familia
     {
-        public int idFamilia { get; set; }
+        public int FamiliaId { get; set; }
         public int CantidadIntegrantes { get; set; }
         //Foreing Key
         public int NumFichaId { get; set; }

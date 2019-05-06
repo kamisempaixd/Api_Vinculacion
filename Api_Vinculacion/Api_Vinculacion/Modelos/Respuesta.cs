@@ -7,7 +7,7 @@ namespace Api_Vinculacion.Modelos
 {
     public class Respuesta
     {
-        public int IdRespuesta { get; set; }
+        public int RespuestaId { get; set; }
         public string Respu { get; set; }
         //foreing key
         public int IdPregunta { get; set; }

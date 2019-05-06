@@ -7,7 +7,7 @@ namespace Api_Vinculacion.Modelos
 {
     public class Familiograma
     {
-        public int idFmlg { get; set; }
+        public int FamiliogramaId { get; set; }
         public int Foto { get; set; }
         //foreing key
         public int NumFichaId { get; set; }

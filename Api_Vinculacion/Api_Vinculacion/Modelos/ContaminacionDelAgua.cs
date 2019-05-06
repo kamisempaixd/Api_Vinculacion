@@ -7,7 +7,7 @@ namespace Api_Vinculacion.Modelos
 {
     public class ContaminacionDelAgua
     {
-        public int IdContaminacionDelAgua { get; set; }
+        public int ContaminacionDelAguaId { get; set; }
         public string Detalle { get; set; }
     }
 }

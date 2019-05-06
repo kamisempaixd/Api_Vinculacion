@@ -7,7 +7,7 @@ namespace Api_Vinculacion.Modelos
 {
     public class Nacionalidad
     {
-        public int IdNacionalidad { get; set; }
+        public int NacionalidadId { get; set; }
         public string Detalle { get; set; }
     }
 }

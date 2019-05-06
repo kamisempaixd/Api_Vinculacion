@@ -7,7 +7,7 @@ namespace Api_Vinculacion.Modelos
 {
     public class DetalleRespuestaEmbarazo
     {
-        public int IdDRE { get; set; }
+        public int DetalleRespuestaEmbarazoId { get; set; }
         //foreing key
         public int NumFichaId { get; set; }
         //Tabla

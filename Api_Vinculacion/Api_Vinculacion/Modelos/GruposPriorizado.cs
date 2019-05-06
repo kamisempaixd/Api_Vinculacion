@@ -7,7 +7,7 @@ namespace Api_Vinculacion.Modelos
 {
     public class GruposPriorizado
     {
-        public int IdGruposPriorizado { get; set; }
+        public int GruposPriorizadoId { get; set; }
         public string Detalle { get; set; }
     }
 }
